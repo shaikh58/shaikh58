@@ -1,5 +1,5 @@
-<h1 align="center">Hi! I'm Mustafa Shaikh</h1>
-<h4 align="center">I'm currently a graduate student (M.S.) in Electrical and Computer Engineering with a focus on Robotics and Control. I have ~5 years of industry experience working in large organizations in a data science role and am looking to transition into the robotics space.</h4>
+<h1 align="center">Hi! I'm Mustafa</h1>
+<h4 align="center">I'm currently a graduate student (M.S.) in Electrical and Computer Engineering with a focus on Robotics and Control. My research focus is on a trajectory optimization problem with safety guarantees in a pursuer evader scenario. Previously, I have worked in industry for ~5 years in large organizations in a data science role.</h4>
 
 - Get in touch with me on LinkedIn at www.linkedin.com/in/mustafa-shaikh-716ba8140 or via email at **mustafanshaikh@gmail.com**
 
