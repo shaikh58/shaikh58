@@ -5,7 +5,7 @@ My research focus is on a trajectory optimization problem with a limited field o
 
 - Get in touch with me on LinkedIn at www.linkedin.com/in/mustafa-shaikh-716ba8140 or via email at **mustafanshaikh@gmail.com**
 
-- Here's a link to my resume: https://drive.google.com/file/d/1haFaK-WzFKGHfeJ_zn5PcH_7HzesliPx/view?usp=share_link
+- Here's a link to my resume: (https://drive.google.com/file/d/1VY0h16DLCHBePe_dB1F13AZIX4UVr7zn/view?usp=share_link)
 
 Here's a list of relevant graduate courses I have taken or am taking:
 - Sensing and Estimation in Robotics
