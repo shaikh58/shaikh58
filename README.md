@@ -24,4 +24,5 @@ Here's a list of relevant graduate courses I have completed:
 
 <h3 align="left">Projects:</h3>
 - String Library with underlying buffer manager that I completed in C++ - https://github.com/shaikh58/StringWithBuffer
+
 - In-memory JSON model with basic query language - https://github.com/shaikh58/JSONQueryModel
