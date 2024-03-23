@@ -5,13 +5,11 @@ My research focus is on a trajectory optimization problem with a limited field o
 
 - Get in touch with me on LinkedIn at www.linkedin.com/in/mustafa-shaikh-716ba8140 or via email at **mustafanshaikh@gmail.com**
 
-- Here's a link to my resume: ([https://drive.google.com/file/d/1VY0h16DLCHBePe_dB1F13AZIX4UVr7zn/view?usp=share_link](https://drive.google.com/file/d/1r9wd4O3RfpzvIDl6StSL0NpYiDRMl9yf/view?usp=share_link))
-
 Here's a list of relevant graduate courses I have completed:
 - Sensing and Estimation in Robotics (ECE276A)
 - Planning and Learning in Robotics (ECE276B)
 - Software Design (C++) (ECE141)
-- Machine Learning (Classical) (CSE251A)
+- Machine Learning (CSE251A)
 - Deep Generative Models (ECE285)
 - Parameter Estimation (ECE275)
 - Convex Optimization (MAE227)
@@ -27,4 +25,4 @@ Here are some of the projects I have recently worked on:
 - String Library with underlying buffer manager that I completed in C++ : https://github.com/shaikh58/StringWithBuffer  
 
 - In-memory JSON model with basic query language (C++) : https://github.com/shaikh58/JSONQueryModel
-- Archive Tool (non-compressing) (C++) : https://github.com/shaikh58/ArchiveTool
+- Archive Tool (C++) : https://github.com/shaikh58/ArchiveTool
