@@ -26,3 +26,4 @@ Here are some of the projects I have recently worked on:
 
 - In-memory JSON model with basic query language (C++) : https://github.com/shaikh58/JSONQueryModel
 - Archive Tool (C++) : https://github.com/shaikh58/ArchiveTool
+- Generating adversarial examples for neural networks: https://github.com/shaikh58/AdversarialMNIST
