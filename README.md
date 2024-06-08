@@ -11,12 +11,13 @@ Here are some of the projects I have recently worked on:
 - Point Cloud Pose Prediction: https://github.com/shaikh58/PointCloudPosePrediction
 - Visual Interial SLAM : https://github.com/shaikh58/VisualInertialSLAM
 - Particle Filter SLAM : https://github.com/shaikh58/ParticleFilterSLAM
+  
 - String Library with underlying buffer manager (C++) : https://github.com/shaikh58/StringWithBuffer  
 - In-memory JSON model with basic query language (C++) : https://github.com/shaikh58/JSONQueryModel
 - Archive Tool (C++) : https://github.com/shaikh58/ArchiveTool
 - Generating adversarial examples for neural networks: https://github.com/shaikh58/AdversarialMNIST
 
-- 
+  
 Here's a list of relevant graduate courses I have completed:
 - Sensing and Estimation in Robotics (ECE276A)
 - Planning and Learning in Robotics (ECE276B)
