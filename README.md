@@ -6,6 +6,7 @@ My research focus is on a trajectory optimization problem with a limited field o
 - Get in touch with me on LinkedIn at www.linkedin.com/in/mustafa-shaikh-716ba8140 or via email at **mustafanshaikh@gmail.com**
 
 
+
 Here are some of the projects I have recently worked on:
 
 - Point Cloud Pose Prediction: https://github.com/shaikh58/PointCloudPosePrediction
