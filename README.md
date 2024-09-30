@@ -1,13 +1,12 @@
 <h1 align="center">Hi, I'm Mustafa! Welcome to my Github page</h1>
-<h4 align="center">I'm a graduate student (M.S.) in Electrical and Computer Engineering at the University of California, San Diego with a focus on Machine Learning and Robotics </h4>
+<h4 align="center">I'm a recent graduate from the M.S. program in Electrical and Computer Engineering at the University of California, San Diego with a focus on Machine Learning and Robotics </h4>
   
-My research focus is on a trajectory optimization problem with a limited field of view formulation in a hide-and-seek game scenario. Previously, I have worked in industry for ~5 years in large organizations in a data science role. I completed my undergraduate studies in engineering at the University of Toronto.
+I currently work in deep learning for computer vision in a collaboration between the department of Cell Biology at UCSD and Computational Neuroscience at SALK Institute for Biomedical Research. My research focus during my masters studies was on a trajectory optimization problem with a limited field of view formulation in a hide-and-seek game scenario. The result of this work is submitted to ICRA2025 and is awaiting review. Previously, I have worked in industry for ~5 years in large organizations in a data science role. I completed my undergraduate studies in engineering at the University of Toronto.
 
 - Get in touch with me on LinkedIn at www.linkedin.com/in/mustafa-shaikh-716ba8140 or via email at **mustafanshaikh@gmail.com**
 
 
-
-Here are some of the projects I have recently worked on:
+Here are some of the projects I have worked on:
 
 - Point Cloud Pose Prediction: https://github.com/shaikh58/PointCloudPosePrediction
 - Visual Interial SLAM : https://github.com/shaikh58/VisualInertialSLAM
